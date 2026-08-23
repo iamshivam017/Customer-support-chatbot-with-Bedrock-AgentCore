@@ -1,0 +1,1 @@
+python chat.py | Tee-Object -FilePath offtopic-test-transcript.txtpython chat.py | Tee-Object -FilePath offtopic-test-transcript.txt
